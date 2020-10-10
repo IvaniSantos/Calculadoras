@@ -184,7 +184,7 @@ public class MainActivity extends AppCompatActivity {
         buttonC.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                EditText.setText("");
+                EditText.setText(" ");
             }
         });
 
